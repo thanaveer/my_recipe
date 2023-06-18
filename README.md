@@ -15,4 +15,12 @@ url:https://quick-recipes.azurewebsites.net/
 2.web app:
 url:https://delicious-recipes-quick.azurewebsites.net/
 
+Screenshots:
+![Screenshot (4)](https://github.com/thanaveer/my_recipe/assets/127850812/39fdd47f-1cee-4df6-b17b-c99090c288f8)
+
+![Screenshot (3)](https://github.com/thanaveer/my_recipe/assets/127850812/c1b9ab91-7b6d-4338-b21e-006fcca841cb)
+
+![Screenshot (2)](https://github.com/thanaveer/my_recipe/assets/127850812/bbebd627-1d0e-4939-9c71-a4e6e7052a14)
+
+
 
