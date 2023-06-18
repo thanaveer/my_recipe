@@ -13,6 +13,6 @@ I used two azure services for my project such as Web app and Static web app.
 1.Static web app:
 url:https://quick-recipes.azurewebsites.net/
 2.web app:
-url:
+url:https://delicious-recipes-quick.azurewebsites.net/
 
 
