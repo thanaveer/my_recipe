@@ -22,5 +22,9 @@ Screenshots:
 
 ![Screenshot (2)](https://github.com/thanaveer/my_recipe/assets/127850812/bbebd627-1d0e-4939-9c71-a4e6e7052a14)
 
+![Screenshot (5)](https://github.com/thanaveer/my_recipe/assets/127850812/3dbd1774-8361-47db-9b27-02f9259cd93c)
+
+
+
 
 
